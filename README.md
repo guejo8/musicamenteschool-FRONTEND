@@ -1,5 +1,4 @@
 
-Descripción
 Este es el repositorio frontend del proyecto fullstack Musicamente scholl, ha sido desarrollado con Vue3.
 
 Musicamente School es una academia musical en línea que ofrece lecciones de clarinete, ukelele y lenguaje musical.
